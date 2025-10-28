@@ -4,6 +4,8 @@ test2.py
 dump.rdb
 __pycache__/
 .env
+.env.deploy
+.env.dev
 api.http
 .vscode/
 .pytest_cache/

@@ -1,4 +1,3 @@
-from MySQLdb import BINARY
 from rest_framework import serializers
 from .models import Notams, ParsedNotams, Coordinates
 
