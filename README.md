@@ -2,6 +2,9 @@
 
 This repository is part of my journey in learning backend development with Django. Through this project, I’m gaining hands-on experience with building APIs, handling databases, working with background tasks, and data extraction.  
 
+⚠️ **Notice:** This API is no longer functional.  
+The external website that this project relied on for data scraping has discontinued its service, so the API can no longer retrieve or serve updated data.
+
 ## ✨ Project Overview  
 
 This project focuses on extracting and processing NOTAM (Notices to Airmen) texts, making them accessible via an API. The system is built with Django, Django REST Framework, Celery, and MySQL.  
